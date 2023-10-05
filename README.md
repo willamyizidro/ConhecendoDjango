@@ -1,0 +1,1 @@
+Projeto onde estou aprendendo Django.
